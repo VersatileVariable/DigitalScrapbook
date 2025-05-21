@@ -3,7 +3,7 @@
 //  Digital Scrapbook
 //
 //  Created by Anna Galeano on 5/21/25.
-//
+//  Current template by XCode
 
 import SwiftUI
 
